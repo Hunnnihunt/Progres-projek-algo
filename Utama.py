@@ -5,7 +5,7 @@ import os
 USERS_FILE = 'users.csv'
 PRODUCTS_FILE = 'products.csv'
 TRANSACTIONS_FILE = 'transactions.csv'
-
+##
 # Voucher data
 VOUCHERS = {
     "akumahasigma": 0.1,  # Diskon 10%
